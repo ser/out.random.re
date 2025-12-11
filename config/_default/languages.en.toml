@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "IT ZONE"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "2 January 2006"
@@ -17,7 +17,7 @@ title = "IT ZONE"
   # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
-  # links = [
+  links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -30,7 +30,7 @@ title = "IT ZONE"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+    { github = "https://github.com/ser" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
@@ -64,4 +64,4 @@ title = "IT ZONE"
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-  # ]
+  ]
